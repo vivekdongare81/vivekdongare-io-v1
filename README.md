@@ -1,0 +1,2 @@
+# vivekdongare-io-v1
+A clean and modern developer portfolio built with React, showcasing my projects, skills, and developer journey. Designed with a focus on performance, responsiveness, and simplicity. Inspired by minimal, content-driven personal sites for developers.
